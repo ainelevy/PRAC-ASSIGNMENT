@@ -1,0 +1,7 @@
+{
+  "name": "AgriScan AI",
+  "description": "An intelligent crop disease detector powered by Gemini 2.5. Upload a photo of your crops to instantly identify diseases, symptoms, and treatment plans.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
